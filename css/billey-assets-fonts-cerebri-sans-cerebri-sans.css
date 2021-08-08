@@ -1,0 +1,179 @@
+@charset "UTF-8";
+
+@font-face {
+	font-family: 'CerebriSans';
+	src: url('../fonts/CerebriSans-Regular.eot');
+	src: url('../fonts/../fonts/CerebriSans-Regular.eot') format('embedded-opentype'),
+	url('../fonts/CerebriSans-Regular.ttf') format('truetype'),
+	url('../fonts/CerebriSans-Regular.woff') format('woff'),
+	url('../images/CerebriSans-Regular.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'CerebriSans';
+	src: url('../fonts/CerebriSans-Italic.eot');
+	src: url('../fonts/../fonts/CerebriSans-Italic.eot') format('embedded-opentype'),
+	url('../fonts/CerebriSans-Italic.ttf') format('truetype'),
+	url('../fonts/CerebriSans-Italic.woff') format('woff'),
+	url('../images/CerebriSans-Italic.svg') format('svg');
+	font-weight: normal;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'CerebriSans';
+	src: url('../fonts/CerebriSans-Light.eot');
+	src: url('../fonts/../fonts/CerebriSans-Light.eot') format('embedded-opentype'),
+	url('../fonts/CerebriSans-Light.ttf') format('truetype'),
+	url('../fonts/CerebriSans-Light.woff') format('woff'),
+	url('../images/CerebriSans-Light.svg') format('svg');
+	font-weight: 200;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'CerebriSans';
+	src: url('../fonts/CerebriSans-LightItalic.eot');
+	src: url('../fonts/../fonts/CerebriSans-LightItalic.eot') format('embedded-opentype'),
+	url('../fonts/CerebriSans-LightItalic.ttf') format('truetype'),
+	url('../fonts/CerebriSans-LightItalic.woff') format('woff'),
+	url('../images/CerebriSans-LightItalic.svg') format('svg');
+	font-weight: 200;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'CerebriSans';
+	src: url('../fonts/CerebriSans-Book.eot');
+	src: url('../fonts/../fonts/CerebriSans-Book.eot') format('embedded-opentype'),
+	url('../fonts/CerebriSans-Book.ttf') format('truetype'),
+	url('../fonts/CerebriSans-Book.woff') format('woff'),
+	url('../images/CerebriSans-Book.svg') format('svg');
+	font-weight: 300;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'CerebriSans';
+	src: url('../fonts/CerebriSans-BookItalic.eot');
+	src: url('../fonts/../fonts/CerebriSans-BookItalic.eot') format('embedded-opentype'),
+	url('../fonts/CerebriSans-BookItalic.ttf') format('truetype'),
+	url('../fonts/CerebriSans-BookItalic.woff') format('woff'),
+	url('../images/CerebriSans-BookItalic.svg') format('svg');
+	font-weight: 300;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'CerebriSans';
+	src: url('../fonts/CerebriSans-Medium.eot');
+	src: url('../fonts/../fonts/CerebriSans-Medium.eot') format('embedded-opentype'),
+	url('../fonts/CerebriSans-Medium.ttf') format('truetype'),
+	url('../fonts/CerebriSans-Medium.woff') format('woff'),
+	url('../images/CerebriSans-Medium.svg') format('svg');
+	font-weight: 500;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'CerebriSans';
+	src: url('../fonts/CerebriSans-MediumItalic.eot');
+	src: url('../fonts/../fonts/CerebriSans-MediumItalic.eot') format('embedded-opentype'),
+	url('../fonts/CerebriSans-MediumItalic.ttf') format('truetype'),
+	url('../fonts/CerebriSans-MediumItalic.woff') format('woff'),
+	url('../images/CerebriSans-MediumItalic.svg') format('svg');
+	font-weight: 500;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'CerebriSans';
+	src: url('../fonts/CerebriSans-SemiBold.eot');
+	src: url('../fonts/../fonts/CerebriSans-SemiBold.eot') format('embedded-opentype'),
+	url('../fonts/CerebriSans-SemiBold.ttf') format('truetype'),
+	url('../fonts/CerebriSans-SemiBold.woff') format('woff'),
+	url('../images/CerebriSans-SemiBold.svg') format('svg');
+	font-weight: 600;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'CerebriSans';
+	src: url('../fonts/CerebriSans-SemiBoldItalic.eot');
+	src: url('../fonts/../fonts/CerebriSans-SemiBoldItalic.eot') format('embedded-opentype'),
+	url('../fonts/CerebriSans-SemiBoldItalic.ttf') format('truetype'),
+	url('../fonts/CerebriSans-SemiBoldItalic.woff') format('woff'),
+	url('../images/CerebriSans-SemiBoldItalic.svg') format('svg');
+	font-weight: 600;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'CerebriSans';
+	src: url('../fonts/CerebriSans-Bold.eot');
+	src: url('../fonts/../fonts/CerebriSans-Bold.eot') format('embedded-opentype'),
+	url('../fonts/CerebriSans-Bold.ttf') format('truetype'),
+	url('../fonts/CerebriSans-Bold.woff') format('woff'),
+	url('../images/CerebriSans-Bold.svg') format('svg');
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'CerebriSans';
+	src: url('../fonts/CerebriSans-BoldItalic.eot');
+	src: url('../fonts/../fonts/CerebriSans-BoldItalic.eot') format('embedded-opentype'),
+	url('../fonts/CerebriSans-BoldItalic.ttf') format('truetype'),
+	url('../fonts/CerebriSans-BoldItalic.woff') format('woff'),
+	url('../images/CerebriSans-BoldItalic.svg') format('svg');
+	font-weight: 700;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'CerebriSans';
+	src: url('../fonts/CerebriSans-ExtraBold.eot');
+	src: url('../fonts/../fonts/CerebriSans-ExtraBold.eot') format('embedded-opentype'),
+	url('../fonts/CerebriSans-ExtraBold.ttf') format('truetype'),
+	url('../fonts/CerebriSans-ExtraBold.woff') format('woff'),
+	url('../images/CerebriSans-ExtraBold.svg') format('svg');
+	font-weight: 800;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'CerebriSans';
+	src: url('../fonts/CerebriSans-ExtraBoldItalic.eot');
+	src: url('../fonts/../fonts/CerebriSans-ExtraBoldItalic.eot') format('embedded-opentype'),
+	url('../fonts/CerebriSans-ExtraBoldItalic.ttf') format('truetype'),
+	url('../fonts/CerebriSans-ExtraBoldItalic.woff') format('woff'),
+	url('../images/CerebriSans-ExtraBoldItalic.svg') format('svg');
+	font-weight: 800;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'CerebriSans';
+	src: url('../fonts/CerebriSans-Heavy.eot');
+	src: url('../fonts/../fonts/CerebriSans-Heavy.eot') format('embedded-opentype'),
+	url('../fonts/CerebriSans-Heavy.ttf') format('truetype'),
+	url('../fonts/CerebriSans-Heavy.woff') format('woff'),
+	url('../images/CerebriSans-Heavy.svg') format('svg');
+	font-weight: 900;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'CerebriSans';
+	src: url('../fonts/CerebriSans-HeavyItalic.eot');
+	src: url('../fonts/../fonts/CerebriSans-HeavyItalic.eot') format('embedded-opentype'),
+	url('../fonts/CerebriSans-HeavyItalic.ttf') format('truetype'),
+	url('../fonts/CerebriSans-HeavyItalic.woff') format('woff'),
+	url('../images/CerebriSans-HeavyItalic.svg') format('svg');
+	font-weight: 900;
+	font-style: italic;
+}
+
+/*This file was exported by "Export WP Page to Static HTML" plugin which created by ReCorp (https://myrecorp.com) */
