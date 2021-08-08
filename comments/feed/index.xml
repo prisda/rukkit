@@ -9,7 +9,7 @@
 	<title>
 	Comments for Rukkiat	</title>
 	<atom:link href="http://localhost/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/rukkit/</link>
 	<description></description>
 	<lastBuildDate>Sun, 08 Aug 2021 07:46:13 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Comment on Hello world! by A WordPress Commenter		</title>
-		<link>/hello-world/#comment-1</link>
+		<link>/rukkit/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Sun, 08 Aug 2021 07:46:13 +0000</pubDate>
-		<guid isPermaLink="false">/?p=1#comment-1</guid>
+		<guid isPermaLink="false">/rukkit/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
