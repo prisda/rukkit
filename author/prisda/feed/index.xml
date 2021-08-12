@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Rukkit</title>
-	<atom:link href="/rukkit/feed/" rel="self" type="application/rss+xml" />
+	<title>prisda &#8211; Rukkit</title>
+	<atom:link href="/rukkit/author/prisda/feed/" rel="self" type="application/rss+xml" />
 	<link>/rukkit/</link>
 	<description></description>
 	<lastBuildDate>Sun, 08 Aug 2021 07:46:13 +0000</lastBuildDate>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>/rukkit/wp-content/uploads/2021/08/cropped-123821712_203713847989409_8259733009414370686_n-32x32.jpg</url>
-	<title>Rukkit</title>
+	<title>prisda &#8211; Rukkit</title>
 	<link>/rukkit/</link>
 	<width>32</width>
 	<height>32</height>
